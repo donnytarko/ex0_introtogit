@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: sky color 
+Favorite food: milk steak
+Favorite musician/band: uncle moishe
+Favorite movie: morbius
+Requested grade in the course: 54
